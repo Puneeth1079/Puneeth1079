@@ -31,28 +31,73 @@
 ```java
 public class Puneeth extends SoftwareEngineer {
 
-    String name       = "Achutha V S Mohan Sri Puneeth";
-    String university = "KL University — CGPA 9.8 / 10";
-    String location   = "Vijayawada, Andhra Pradesh, India";
-    String focus      = "Backend Engineering · Full-Stack · Cloud · DevOps";
+    String name = "Achutha V S Mohan Sri Puneeth";
+
+    String role =
+        "Backend Engineer | Full-Stack Developer | DevOps Enthusiast";
+
+    String education =
+        "B.Tech Computer Science & Engineering, KL University (CGPA: 9.79/10)";
+
+    String currentFocus =
+        "Building scalable applications using Java, Spring Boot, React, Docker, and Cloud technologies";
+
+    String[] expertise = {
+        "Backend Development",
+        "Full-Stack Development",
+        "REST API Design",
+        "DevOps & CI/CD",
+        "Problem Solving"
+    };
+
+    String[] techStack = {
+        "Java", "Spring Boot", "React",
+        "Docker", "GitHub Actions",
+        "MySQL", "Python", "FastAPI"
+    };
+
+    String[] achievements = {
+        "300+ DSA Problems Solved",
+        "Guidewire DEVTrails Hackathon Participant",
+        "Built Multiple Full-Stack Applications",
+        "Hands-on CI/CD and Docker Experience"
+    };
 
     String[] currentlyLearning = {
-        "Distributed Systems & Microservices",
-        "AWS Cloud Architecture",
-        "Kubernetes Orchestration",
-        "System Design at Scale"
+        "System Design",
+        "Microservices",
+        "Kubernetes",
+        "AWS Cloud",
+        "Distributed Systems"
     };
 
     String[] askMeAbout = {
-        "Java & Spring Boot", "REST API Design",
-        "CI/CD Pipelines", "DSA & Problem Solving"
+        "Java",
+        "Spring Boot",
+        "React",
+        "Docker",
+        "GitHub Actions",
+        "System Design",
+        "DSA"
     };
 
-    String funFact = "I debug production issues faster than I find matching socks. 🧦";
+    String motto =
+        "Turning ideas into scalable software solutions.";
 }
 ```
 
----
+🚀 **Current Goals**
+
+* Building production-ready Full-Stack applications
+* Deepening expertise in Backend Engineering
+* Learning Cloud & Microservices Architecture
+* Contributing to Open Source Projects
+* Preparing for Software Engineering roles
+
+💡 **Fun Fact**
+
+> I enjoy solving complex problems, optimizing systems, and turning coffee into code.
+
 
 ## 🚀 Tech Stack
 
@@ -225,7 +270,7 @@ Full-stack task management application containerized with Docker. Demonstrates e
 | ☕ Java Full Stack | Java Full Stack Developer Virtual Internship |
 | 📘 NPTEL Certified | Programming in Java — NPTEL |
 | 🚀 Hackathon Participant | Guidewire DEVTrails — GigShield Insurance Platform |
-| 🎓 CGPA 9.79 | KL University, Computer Science & Engineering |
+| 🎓 CGPA 9.8 | KL University, Computer Science & Engineering |
 
 ---
 
